@@ -6,21 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		7720C5642CD8B8AF00ADF578 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 7720C5632CD8B8AF00ADF578 /* Localizable.xcstrings */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		7720C5632CD8B8AF00ADF578 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		77F93EEC2CD77C980007A404 /* Khafoot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Khafoot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7720C5622CD8AF5900ADF578 /* Views */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Views;
-			sourceTree = "<group>";
-		};
 		77F93EEE2CD77C980007A404 /* Khafoot */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Khafoot;
@@ -43,8 +33,6 @@
 			isa = PBXGroup;
 			children = (
 				77F93EEE2CD77C980007A404 /* Khafoot */,
-				7720C5632CD8B8AF00ADF578 /* Localizable.xcstrings */,
-				7720C5622CD8AF5900ADF578 /* Views */,
 				77F93EED2CD77C980007A404 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,7 +61,6 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7720C5622CD8AF5900ADF578 /* Views */,
 				77F93EEE2CD77C980007A404 /* Khafoot */,
 			);
 			name = Khafoot;
@@ -123,7 +110,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7720C5642CD8B8AF00ADF578 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
