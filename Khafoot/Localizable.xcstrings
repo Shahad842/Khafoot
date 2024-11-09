@@ -32,7 +32,14 @@
       }
     },
     "Hello, World!" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبا بالعالم!"
+          }
+        }
+      }
     },
     "If there is a problem, you can contact us via email to solve it" : {
       "localizations" : {
@@ -65,7 +72,14 @@
       }
     },
     "Liked Sounds" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الأصوات المفضلة "
+          }
+        }
+      }
     },
     "Listen Now" : {
       "localizations" : {
